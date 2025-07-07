@@ -1,5 +1,5 @@
 package java_fundamentals;
 
-public class Question6 {
+public class Question16 {
 
 }
